@@ -1,0 +1,37 @@
+[
+    {
+        "username": "Samuel Kings",
+        "email": "samuelkings@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    },
+
+    {
+        "username": "John Doe",
+        "email": "jogndoe@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    },
+
+    {
+        "username": "Mr ABC",
+        "email": "mrabc@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    },
+
+    {
+        "username": "Testing 123",
+        "email": "testing123@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    },
+
+    {
+        "username": "Abel Doe",
+        "email": "janedoe@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    },
+
+    {
+        "username": "John McArthur",
+        "email": "johnmcarthur@gmail.com",
+        "imageUrl": "https://www.borkuafrica.metrolifetech.com/v1/storage/buckets/avatars/files/62b4950b16544ef4fed2/view?project=borkuafrica&mode=admin"
+    }
+]
